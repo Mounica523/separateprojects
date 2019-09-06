@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Azure.WebJobs;
 
-namespace WebJob3
+namespace WebJob2
 {
 	public class Functions
 	{
